@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** and **Computational
 ---
 
 ### 🔬 **Education & Experience:**
-- **Adjunct Professor of Biology**: Experience teaching **Biology** at **Biola University**, where I helped students bridge the gap between biological sciences and data analysis.
-- **Research Assistant** at the **Tissue Spatial Geometrics Laboratory**: Contributed to **GlycoAssessor**, a tool designed to assess N-Glycan structures, with a focus on **bioinformatics** and **data science** applications.
+- **Adjunct Professor of Biology**: Experience teaching **Biology** at **Biola University**, where I help students bridge the gap between biological sciences and data analysis.
+- **Research Assistant** at the **Tissue Spatial Geometrics Laboratory**: Developed **GlycoAssessor**, a tool designed to assess N-Glycan structures, with a focus on **bioinformatics** and **data science** applications.
 - **Upcoming MS in Computer Science**: Starting in June 2025 at **University of Texas at Austin**, where I will further hone my skills in **software engineering**, **machine learning**, and **computational biology**.
 
 ---
