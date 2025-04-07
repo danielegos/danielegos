@@ -46,7 +46,3 @@ I am always looking for opportunities to collaborate with like-minded profession
 ---
 
 **Thanks for visiting my profile!** Feel free to explore my repositories, contribute to any projects, or check out my ongoing work in computational biology and software engineering. I'm excited to connect and collaborate with others in the tech and life sciences communities!
-
----
-
-This README gives a well-rounded view of your professional journey and interests, while inviting collaboration and engagement. If you'd like any adjustments or more specific details added, feel free to let me know!
