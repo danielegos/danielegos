@@ -6,7 +6,7 @@ I'm a passionate **Computational Biologist** and **Software Engineer**. With exp
 
 ### 📂 **Notable Projects:**
 - **[GlycoAssessor](https://github.com/danielegos/GlycoAssessor)**: A bioinformatics tool for analyzing **N-Glycan** structures, focusing on spatial data visualization and analysis.
-- **[MedMochi](https://github.com/danielegos/medmochi)**: An educational Flutter app that helps users study for the **MCAT**, leveraging APIs and cloud computing for an interactive experience.
+- **[MedMochi](https://github.com/danielegos/medmochi)**: An educational Flutter app that helps users study for the **MCAT**. View the live site [here](https://danielegos.github.io/medmochi/).
 - **[Daniel Gallegos](https://github.com/danielegos/dg)**: My personal website using **Three.js** to display a particle simulation of a brain, mimicing the firing of neurons.
   
 ---
