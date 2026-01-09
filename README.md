@@ -1,1 +1,1 @@
-**Thanks for visiting my profile!** Feel free to explore my repositories, contribute to any projects, or check out my ongoing work. I'm excited to connect and collaborate with others in the regulatory affairs community!
+**Thanks for visiting my profile!** Feel free to explore my repositories, contribute to any projects, or check out my ongoing work.
