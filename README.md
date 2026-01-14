@@ -1,1 +1,1 @@
-**Thanks for visiting my profile!** Feel free to explore my repositories, contribute to any projects, or check out my ongoing work.
+I am a software engineer and computational biologist building production-grade applications for scientific and engineering workflows.
