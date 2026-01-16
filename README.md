@@ -1,1 +1,1 @@
-I am a software engineer and computational biologist building production-grade applications for scientific and engineering workflows.
+NIH-trained biologist specializing in bioinformatics, scientific software engineering, and teaching complex biological systems
